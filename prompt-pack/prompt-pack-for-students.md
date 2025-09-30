@@ -1,220 +1,81 @@
-Title: Prompt%20pack%20for%20students
+Title: Prompt pack for students
+
+标题: 学生提示词包
 
 URL Source: https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-students
 
+来源链接: https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-students
+
 Published Time: 2025-08-22T21:09:13.770Z
 
+发布时间: 2025-08-22T21:09:13.770Z
+
 Markdown Content:
-Prompt pack for students - Resource | OpenAI Academy
-
-===============
-
-[![Image 1: OpenAI Academy](https://cdn.gradual.com/images/https://d2xo500swnpgl1.cloudfront.net/uploads/oaiacademy/OpenAI-black-wordmark-17f3a65d-36d2-468a-a9a1-915e1843c0cf-1739890696095.png?fit=scale-down&width=240) ![Image 2: OpenAI Academy Logo](https://cdn.gradual.com/images/https://d2xo500swnpgl1.cloudfront.net/uploads/oaiacademy/OpenAI-black-monoblossom-743de6c6-b680-4334-8cd5-fee30f7a2202-1739890376705.png?fit=scale-down&width=100)](https://academy.openai.com/)
-
-OpenAI Academy
-
-Search 
-
-+00:00 GMT
-
-SIGN IN
-
-*   [Home](https://academy.openai.com/)
-*   [Events](https://academy.openai.com/public/events)
-*   [Content](https://academy.openai.com/public/content)
-*   [Communities](https://academy.openai.com/public/clubs)
-*   [What's New](https://academy.openai.com/publichttps:/academy.openai.com/public/collections/whats-new?linkMenu=What%27s%2520New)
-*     
-*    Work      
-*    Education      
-*   [Nonprofits](https://academy.openai.com/publichttps:/academy.openai.com/public/clubs/nonprofits-8kc1e/overview?linkMenu=Nonprofits)
-*   [Government](https://academy.openai.com/publichttps:/academy.openai.com/public/clubs/government-25yzc/overview?linkMenu=Government)
-*    Help    
-
-*   [Home](https://academy.openai.com/)
-*   [Events](https://academy.openai.com/public/events)
-*   [Content](https://academy.openai.com/public/content)
-*   [Communities](https://academy.openai.com/public/clubs)
-*   [What's New](https://academy.openai.com/publichttps:/academy.openai.com/public/collections/whats-new?linkMenu=What%27s%2520New)
-*     
-*    Work      
-*    Education      
-*   [Nonprofits](https://academy.openai.com/publichttps:/academy.openai.com/public/clubs/nonprofits-8kc1e/overview?linkMenu=Nonprofits)
-*   [Government](https://academy.openai.com/publichttps:/academy.openai.com/public/clubs/government-25yzc/overview?linkMenu=Government)
-*    Help    
-
-[](https://www.gradual.com/?utm_source=oaiacademy&utm_campaign=poweredByLink&utm_medium=gradual)
-
-[Communities](https://academy.openai.com/home/clubs)
-
-/
-
-[Higher Education](https://academy.openai.com/public/clubs/higher-education-05x4z/overview)
-
-/
-
-[Content](https://academy.openai.com/public/clubs/higher-education-05x4z/content)
-
-Article
-
-August 22, 2025 · Last updated on August 26, 2025
-
-Prompt pack for students
-========================
-
-![Image 3: Prompt pack for students](https://cdn.gradual.com/images/https://d2xo500swnpgl1.cloudfront.net/uploads/oaiacademy/Work-Users-Cover-Images-45--f0d60702-c78e-4dd7-a5db-7e688350541d-1755007936857.jpeg?fit=scale-down&width=400)
-
-# Higher Education
-
-Ready-to-use prompt examples for students
------------------------------------------
-
-![Image 4: Juliann Igo](https://cdn.gradual.com/images/https://d2xo500swnpgl1.cloudfront.net/uploads/oaiacademy/1722019004102-4c419576-e710-4bb4-91fb-7208ae0552b0-1746650892941.jpeg?fit=scale-down&width=60)
-
-Juliann Igo
-
-[](mailto:?subject=%5BOpenAI%20Academy%5D%20Prompt%20pack%20for%20students&body=https%3A%2F%2Facademy.openai.com%2Fpublic%2Fclubs%2Fhigher-education-05x4z%2Fresources%2Fprompt-pack-for-students)
-
-![Image 5: Prompt pack for students](https://cdn.gradual.com/images/https://d2xo500swnpgl1.cloudfront.net/uploads/oaiacademy/Work-Users-Cover-Images-45--f0d60702-c78e-4dd7-a5db-7e688350541d-1755007936857.jpeg?fit=scale-down&width=400)
-
 Prompt Pack for Students
 ========================
 
+### Markdown 内容:
+学生提示词包
+========================
+
+Ready-to-use prompt examples for students
+
+即用型学生提示词示例
+
 This page gives you ready-to-use prompt examples to help you get the most out of ChatGPT Edu for your assignments, projects, and studying.
+
+本页面为您提供即用型提示词示例,帮助您充分利用 ChatGPT Edu 完成作业、项目和学习。
 
 Sample prompts to make the most of ChatGPT Edu
 ----------------------------------------------
 
-### **Adaptive Study Plan Generator**
+### 充分利用 ChatGPT Edu 的示例提示词
+----------------------------------------------
+
+### Adaptive Study Plan Generator
+
+### 自适应学习计划生成器
 
 "Create a personalized, adaptive study plan for my upcoming exams in [specific subject]. Incorporate my recent performance data and syllabus details. Include time allocations, targeted practice problems, and review sessions. Adjust the plan dynamically based on progress and areas of difficulty, ensuring coverage of all key topics."
 
-### **Real-Time Peer Review and Feedback**
+"为我即将到来的[特定科目]考试创建个性化的自适应学习计划。结合我最近的成绩数据和教学大纲细节。包括时间分配、针对性练习题和复习环节。根据进度和困难领域动态调整计划,确保涵盖所有关键主题。"
+
+### Real-Time Peer Review and Feedback
+
+### 实时同行评审和反馈
 
 "Review my essay on [topic] and provide detailed, constructive feedback. Identify key strengths and pinpoint specific areas for improvement. Recommend additional resources or examples to strengthen my arguments and ensure clarity and coherence throughout the essay."
 
-### **Custom Research Assistant**
+"审阅我关于[主题]的论文,并提供详细的建设性反馈。识别主要优势并指出具体改进领域。推荐额外的资源或示例以强化我的论点,并确保论文的清晰性和连贯性。"
+
+### Custom Research Assistant
+
+### 定制化研究助手
 
 "Assist with my research on [topic]. Summarize the key findings from these primary sources [links] and organize the information into clear, thematic categories. Identify any gaps or areas needing further exploration, and suggest additional resources or studies to deepen my research. Tailor the summary to align with the specific focus of my project."
 
+"协助我关于[主题]的研究。总结这些主要来源[链接]的关键发现,并将信息组织成清晰的主题类别。识别任何缺口或需要进一步探索的领域,并建议额外的资源或研究以深化我的研究。定制摘要以与我项目的具体重点保持一致。"
+
 ### Practice Real-World Scenarios
+
+### 实践真实世界场景
 
 "Simulate a business negotiation in the sports management industry, focusing on securing a sponsorship deal. Present realistic scenarios and challenges throughout the negotiation process. Provide real-time feedback on my strategies, decisions, and communication tactics, highlighting strengths and areas for improvement. Tailor the simulation to reflect current industry trends and best practices."
 
+"模拟体育管理行业的商务谈判,重点是确保赞助协议。在整个谈判过程中呈现真实场景和挑战。提供关于我的策略、决策和沟通策略的实时反馈,突出优势和改进领域。定制模拟以反映当前行业趋势和最佳实践。"
+
 ### Personalized Career Pathway Exploration
+
+### 个性化职业路径探索
 
 "Based on my interests in [fields], suggest tailored career paths that align with my strengths and aspirations. Outline actionable steps to achieve these goals, including targeted recommendations for internships, relevant courses, and essential skills to develop. Provide insights on emerging trends in these fields to guide long-term career planning."
 
+"基于我对[领域]的兴趣,建议与我的优势和抱负相一致的定制职业路径。概述实现这些目标的可执行步骤,包括有针对性的实习建议、相关课程和需要发展的关键技能。提供这些领域新兴趋势的见解,以指导长期职业规划。"
+
 ### Collaborative Project Management
 
-"Assist my group in organizing our project on [topic]. Break down the project into key tasks, assign responsibilities based on each member’s strengths, and set realistic deadlines. Provide strategies for effective communication and collaboration to ensure the project runs smoothly. Include tips for managing potential challenges and keeping the team on track. More about the [members, project scope, deliverables]."
+### 协作项目管理
 
-Table Of Contents
+"Assist my group in organizing our project on [topic]. Break down the project into key tasks, assign responsibilities based on each member's strengths, and set realistic deadlines. Provide strategies for effective communication and collaboration to ensure the project runs smoothly. Include tips for managing potential challenges and keeping the team on track. More about the [members, project scope, deliverables]."
 
-*   [Prompt Pack for Students](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-students#h.sgea8tkmdf9x)
-    *   [Sample prompts to make the most of ChatGPT Edu](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-students#h.lbzxa59qjosj_l)
-
-Popular
--------
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/built-for-better-teaching-5-gpts-every-faculty-member-should-use-2025-08-13)
-
-Blog
-
-[Built for Better Teaching: 5 GPTs Every Faculty Member Should Use](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/built-for-better-teaching-5-gpts-every-faculty-member-should-use-2025-08-13)
-
-By Siya Raj Purohit
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/gpts-that-keep-campus-running-top-5-for-staff-and-admins-2025-08-13)
-
-Blog
-
-[5 GPTs That Power Your Campus: Built for Staff & Administrators](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/gpts-that-keep-campus-running-top-5-for-staff-and-admins-2025-08-13)
-
-By Siya Raj Purohit
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/ai-communication-toolkit)
-
-Resource
-
-[AI Communication Toolkit](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/ai-communication-toolkit)
-
-Dive in
-
-Related
--------
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-faculty)
-
-Resource
-
-[Prompt Pack for Faculty](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-faculty)
-
-By Juliann Igo •Aug 22nd, 2025 • Views 5.4K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/step-by-step-launch-guide)
-
-Resource
-
-[ChatGPT Edu Launch Guide for Higher Ed Universities](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/step-by-step-launch-guide)
-
-By Kirk Gulezian •Aug 22nd, 2025 • Views 9.9K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-administrators)
-
-Resource
-
-[Prompt Pack for Administrators](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-administrators)
-
-Aug 22nd, 2025 • Views 3.4K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/ai-that-gets-you-top-5-gpts-for-students-2025-08-13)
-
-Blog
-
-[AI That Gets You: Top 5 GPTs for Students](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/ai-that-gets-you-top-5-gpts-for-students-2025-08-13)
-
-By Siya Raj Purohit •Aug 13th, 2025 • Views 3.2K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-faculty)
-
-Resource
-
-[Prompt Pack for Faculty](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-faculty)
-
-By Juliann Igo •Aug 22nd, 2025 • Views 5.4K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-administrators)
-
-Resource
-
-[Prompt Pack for Administrators](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/prompt-pack-for-administrators)
-
-Aug 22nd, 2025 • Views 3.4K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/ai-that-gets-you-top-5-gpts-for-students-2025-08-13)
-
-Blog
-
-[AI That Gets You: Top 5 GPTs for Students](https://academy.openai.com/public/clubs/higher-education-05x4z/blogs/ai-that-gets-you-top-5-gpts-for-students-2025-08-13)
-
-By Siya Raj Purohit •Aug 13th, 2025 • Views 3.2K
-
-[](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/step-by-step-launch-guide)
-
-Resource
-
-[ChatGPT Edu Launch Guide for Higher Ed Universities](https://academy.openai.com/public/clubs/higher-education-05x4z/resources/step-by-step-launch-guide)
-
-By Kirk Gulezian •Aug 22nd, 2025 • Views 9.9K
-
-We use cookies 🍪 for analytics and to provide better services.[Learn more.](https://gradual.notion.site/Privacy-Policy-ccec78687fb44226974049ec5ed39683)
-
-Got it
-
-[Terms of Service](https://docs.google.com/document/d/e/2PACX-1vQ3YXP0o_PhToY1NvEX23GMxiexqmjQmCw1cJ0Bvl2kdFnGMDcDM5p5x0jsNpEQfspIkY1I35nC7uVr/pub)
-
-[Privacy Policy](https://openai.com/policies/privacy-policy)
-
-[Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vQ3YXP0o_PhToY1NvEX23GMxiexqmjQmCw1cJ0Bvl2kdFnGMDcDM5p5x0jsNpEQfspIkY1I35nC7uVr/pub)
-
+"协助我的小组组织关于[主题]的项目。将项目分解为关键任务,根据每个成员的优势分配职责,并设定现实的截止日期。提供有效沟通和协作的策略以确保项目顺利进行。包括管理潜在挑战和保持团队进度的技巧。更多关于[成员、项目范围、可交付成果]。"
