@@ -3,3 +3,5 @@
 
 # 工作树目录，需要在主仓库忽略
 /worktrees/
+venv/
+output/*.mp4
