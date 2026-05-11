@@ -6,3 +6,12 @@
 
 # 忽略环境变量
 .env.*
+node_modules/
+.next/
+out/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tsbuildinfo
